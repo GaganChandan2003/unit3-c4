@@ -1,0 +1,12 @@
+#navbar
+{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#search_input
+{
+    width: 900px;
+    height: 30px;
+}

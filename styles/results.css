@@ -1,0 +1,24 @@
+#results
+{
+    border: 1px solid red;
+    width: 90%;
+    height: auto;
+}
+#box
+{
+    width: 100%;
+    height: 180px;
+    border: 1px solid grey;
+    display: flex;
+}
+#image
+{
+    width: 20%;
+    height: 100%;
+}
+#box1
+{
+    width: 80%;
+    height: 100%;
+    padding: 10px;
+}

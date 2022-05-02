@@ -1,0 +1,25 @@
+#side_res
+{
+    display: flex;
+    width: 100%;
+    height:auto;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+#sidebar
+{
+    border: 1px solid red;
+    width: 10%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+#sidebar>div{
+    border: 1px solid grey;
+    padding: 5px 10px;
+}
